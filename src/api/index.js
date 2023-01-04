@@ -1,0 +1,3 @@
+export const BASE_URL = 'https://hopeaccelerated-backend.herokuapp.com/';
+
+export const TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyMjM3NTI2ZjE2YjY0MDAxODVkODk5MSIsImlhdCI6MTY0NzYyNDM2MCwiZXhwIjoxNjUwMjE2MzYwfQ.y3iIr8PRZSs8JDP9yp7LHhIpwt8T1kXCtrcvFfSL5ng"
